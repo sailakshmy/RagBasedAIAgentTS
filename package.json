@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/sailakshmy/RagBasedAIAgentTS/issues"
   },
-  "homepage": "https://github.com/sailakshmy/RagBasedAIAgentTS#readme"
+  "homepage": "https://github.com/sailakshmy/RagBasedAIAgentTS#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "langbase": "^1.2.4"
+  }
 }
