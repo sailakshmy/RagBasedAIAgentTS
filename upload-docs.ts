@@ -10,7 +10,7 @@ const langbase = new Langbase({
 
 async function main() {
   const cwd = process.cwd();
-  const memoryName = "knowledge-base";
+  const memoryName = "knowledge-base-9";
 
   // Upload agent architeture document to memory
 
