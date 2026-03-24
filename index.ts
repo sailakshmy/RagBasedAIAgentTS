@@ -3,7 +3,7 @@ import { runMemoryAgent } from "./agents";
 
 async function main() {
   try {
-    const chunks = await runMemoryAgent("agent");
+    const chunks = await runMemoryAgent("What is agent parallelization?");
     console.log("Memory chunks:", chunks);
   } catch (error) {
     console.error("Failed runMemoryAgent:", error);
